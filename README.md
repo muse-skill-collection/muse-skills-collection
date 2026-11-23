@@ -4,6 +4,8 @@ The Muse Skill Collection: 293 ready-to-install skills for Muse
 
 New to Muse skills? A skill is a small folder of plain-English instructions that teaches your Muse a new job: designing pages, writing marketing copy, reviewing code, planning research, making art, running a store, and much more. Install one in seconds, and your Muse can do that job whenever you ask.
 
+Where these skills come from: every skill in this collection started life as a Claude skill, written for Claude and Claude Code. Where a skill needed changes to work inside Muse, it was adapted for Muse, and each pack's attribution file notes which skills were adapted and what was changed. Skills that already worked as written are included unchanged.
+
 What is inside: 10 themed packs, 293 skills in total.
 - Design (23)
 - Marketing (60)
