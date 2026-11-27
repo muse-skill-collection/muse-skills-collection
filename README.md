@@ -18,7 +18,15 @@ What is inside: 10 themed packs, 293 skills in total.
 - Business and finance (14)
 - Data, home, developer and productivity (17)
 
-How to install: download the packs you want from the release page, unzip, and drop the skill folders into your Muse custom skills folder. Done. Every pack includes a plain-English install guide written for Muse itself, so you can simply ask your Muse to install them for you.
+How to use a pack:
+
+1. Pick a pack. The packs are split by job (the list above), and you can browse every skill in a pack right here before downloading anything. Open a skill's folder and read the top of its SKILL.md, it says in plain English what the skill does and when Muse should use it, so you can tell whether it fits your work.
+
+2. Get the pack from the Releases page. It downloads as one file per pack.
+
+3. Let Muse install it. You do not have to unzip anything or move folders around yourself. Paste this repo's link into your Muse and tell it to install the pack you picked, and it fetches the files and puts the skill folders where they belong. If you already downloaded the pack file, tell Muse where the file is and it will install from that instead. Every pack also includes an install guide written for Muse, which walks it through the install step by step.
+
+4. Use it. Once a pack is installed there is nothing to switch on, Muse reaches for the skills on its own when a job matches what a skill describes. If you want a specific one, just name it in your message to Muse.
 
 Free, forever. Every skill keeps its original author credit and license in the attribution file included in each pack. Most are MIT or Apache-2.0; a few carry share-alike or non-commercial terms, all clearly flagged before you download.
 
